@@ -1,0 +1,10 @@
+[PropertyInfo]
+doDispatch,boolean,false,false, , ,false,<default>
+handlerClassName,String,false,false, , ,false,<default>
+NO_HANDLER,String,false,false, , ,false,<default>
+theQueue,java.awt.EventQueue,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
